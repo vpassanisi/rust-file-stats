@@ -1,0 +1,4 @@
+{
+  "ignore_folders": ["node_modules", "dist"],
+  "extension_to_count": ["js", "ts"]
+}
